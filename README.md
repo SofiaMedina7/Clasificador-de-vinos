@@ -7,4 +7,5 @@ El modelo esta reducido a clasificar vinos de 1 a 10, sin embargo, debido a los 
 ## Elementos necesarios para la ejecución del programa 
 Es necesario el dataset redwinequality.csv para correr el código, dentro de este se utilizaro las siguientes librerias: Pandas, Numpy y SkLearn.
 
-**Elaborado por**: Sofia Medina Chica 
+**Elaborado por**: Sofia Medina Chica
+(https://www.dropbox.com/s/z9yvfzatyjmlp4l/Presentaci%C3%B3n-ProyectoFinal.webm?dl=0 "Video explicativo del proyecto")
